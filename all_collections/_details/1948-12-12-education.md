@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title: Education
 date: 1948-12-12 10:18:00
 categories: [fiction, jekyll]
@@ -16,3 +16,5 @@ categories: [fiction, jekyll]
 [My Projects?](../projects)
 
 [My Skills?](../skills)
+
+[Homepage](../../)

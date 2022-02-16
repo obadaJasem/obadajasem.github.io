@@ -16,13 +16,13 @@ plugins:
 
 collections_dir: all_collections
 collections:
-  posts:
+  details:
     output: true
 
 defaults:
   - scope:
-      path: "_posts"
+      path: "_details"
     values:
-      layout: "post"
-      permalink: /posts/:title/
+      layout: "detail"
+      permalink: /details/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
