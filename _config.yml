@@ -1,12 +1,12 @@
 title: Obada Jasem
 markdown: kramdown
 url: ""
-baseurl: "/"
+baseurl: ""
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Obada Jasem
+  email: obadajas0@gmail.com
 
 plugins:
   - jemoji
