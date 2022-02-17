@@ -4,6 +4,7 @@
 const categories = { {% for category in site.categories %}{% capture category_name %}{{ category | first }}{% endcapture %}{{ category_name }}: [{% for detail in site.categories[category_name] %}{ url: `{{ site.baseurl }}{{ detail.url }}`, date: `{{detail.date | date_to_string}}`, title: `{{detail.title}}`},{% endfor %}],{% endfor %} }
 
 window.onload = function () {
+  console.log(categories);
   document.querySelectorAll(".category").forEach((category) => {
     category.addEventListener("click", function (e) {
       const details = categories[e.target.innerText];
