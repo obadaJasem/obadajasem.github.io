@@ -3,6 +3,7 @@ layout: detail
 title: Education
 date: 1948-12-12 10:18:00
 categories: [fiction, jekyll]
+permalink: education
 ---
 
 - Master Of Web Science, Syrian Virtual University
