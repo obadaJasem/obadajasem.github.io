@@ -18,6 +18,6 @@ permalink: education
 
 [My Skills?](../skills)
 
-[My Experiences?](../experiences)
+[My Experience?](../experience)
 
 [Homepage](../../)
