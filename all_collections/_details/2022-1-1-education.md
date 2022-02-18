@@ -10,9 +10,9 @@ permalink: education
 
   January 2022 — Present
 
-- Software Engineering, Tishreen University, Syria
+- Bachelor Degree in Software Engineering, Tishreen University, Syria
 
-  September 2016 — September 2022
+  September 2016 — September 2021
 
 [My Projects?](../projects)
 
