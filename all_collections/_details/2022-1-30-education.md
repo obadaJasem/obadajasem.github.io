@@ -1,7 +1,7 @@
 ---
 layout: detail
 title: Education
-date: 1948-12-12 10:18:00
+date: 2022-1-30
 categories: [fiction, jekyll]
 permalink: education
 ---

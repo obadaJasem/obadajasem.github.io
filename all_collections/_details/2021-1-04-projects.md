@@ -1,7 +1,7 @@
 ---
 layout: detail
 title: Projects
-date: 2021-11-04
+date: 2022-1-01
 categories: ["jekyll"]
 permalink: projects
 ---
