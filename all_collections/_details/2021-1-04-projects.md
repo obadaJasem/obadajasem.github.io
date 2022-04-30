@@ -56,6 +56,36 @@ With a clean, beautiful design, show your customers what you have to offer, anyt
 Your customer doesn't need to install an app or anything, just scan and enjoy.
 see or scan the barcode with a phone camera.
 Menu management has never been easier.
+
+- ## [Fire blog](https://obadajasm.github.io/Fire-Blog)
+
+<div id ='blog' class="slideshow-container">
+  <div class="blog mySlides fade">
+    <img src="{{site.baseurl}}/assets/images/blog4.png" style="width:100%">
+  </div>
+  <div class="blog mySlides fade">
+    <img src="{{site.baseurl}}/assets/images/blog3.png" style="width:100%">
+  </div>
+  <div class="blog mySlides fade">
+    <img src="{{site.baseurl}}/assets/images/blog2.png" style="width:100%">
+  </div>
+   <div class="blog mySlides fade">
+    <img src="{{site.baseurl}}/assets/images/blog1.png" style="width:100%">
+  </div>
+ 
+<a class="prev" onclick="plusSlides(-1,'blog')">&#10094;</a>
+<a class="next" onclick="plusSlides(1,'blog')">&#10095;</a>
+
+</div>
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class=" dot" onclick="currentSlide(1,'blog')"></span>
+  <span class=" dot" onclick="currentSlide(2,'blog')"></span>
+  <span class=" dot" onclick="currentSlide(3,'blog')"></span>
+  <span class=" dot" onclick="currentSlide(4,'blog')"></span>
+</div>
+Minimal version of [realworld demo app](https://demo.realworld.io) using [this api](https://api.realworld.io/api-docs/) as backend service.
+
 - ## INTV+
 
 <div id='intv' class="slideshow-container">
@@ -199,6 +229,7 @@ showSlides(slideIndex,'qlevar');
 showSlides(slideIndex,'intv');
 showSlides(slideIndex,'mekz');
 showSlides(slideIndex,'tasqment');
+showSlides(slideIndex,'blog');
 
 function plusSlides(n,type) {
 
