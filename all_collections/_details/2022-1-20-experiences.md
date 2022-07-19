@@ -7,9 +7,13 @@ categories: [fiction, jekyll]
 permalink: experience
 ---
 
+- Frontend Web Developer at [B&S](https://www.bs-group-sa.com/){:target="\_blank"}, Dubai, United Arab Emirates
+
+  March 2022 — Present
+
 - Frontend Web Developer at [Nestech](https://www.nestech.org){:target="\_blank"}, Syria
 
-  September 2021 — Present
+  September 2021 — March 2022
 
 - Mobile Application Developer at [BadinanSoft](https://www.badinansoft.com){:target="\_blank"}, Iraq (remote)
 
